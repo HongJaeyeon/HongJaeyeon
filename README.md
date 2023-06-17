@@ -3,7 +3,7 @@
 <div align="center">
   
 <h3>💕 안녕하세요 💕</h3>
-  <p><strong>예술</strong>과 <strong>기술</strong>을 잇는 프론트앤드 개발자 홍재연입니다.</p>
+  <p><strong>예술</strong>과 <strong>기술</strong>을 잇는 <strong>프론트앤드</strong> 개발자 홍재연입니다.</p>
 <br/>
 
 <h3>🔥 Tech Stack 🔥</h3>
