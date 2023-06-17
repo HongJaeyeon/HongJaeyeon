@@ -24,6 +24,8 @@
 <br/>
 <br/>
 
+![HongJaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongJaeyeon&show_icons=true&theme=radical)   
+
 <h3>⭐️ Ranking ⭐️</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddrrff)](https://solved.ac/ddrrff/)
