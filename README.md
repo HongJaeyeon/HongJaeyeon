@@ -16,6 +16,4 @@
 </p>
 
 <h3 align="center">🔥 Ranking 🔥</h3>
-<p align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddrrff)](https://solved.ac/ddrrff/)
-</p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddrrff)](https://solved.ac/ddrrff/)
