@@ -1,5 +1,7 @@
-<h5>💕 안녕하세요 💕</h5>
-<h5>예술과 기술을 잇는 프론트앤드 개발자 홍재연입니다.</h5>
+<h3 align="center">💕 안녕하세요 💕</h3>
+<p align="center">
+  <h5>예술과 기술을 잇는 프론트앤드 개발자 홍재연입니다.</h5>
+</p>
 
 <h3 align="center">🔥 Tech Stack 🔥</h3>
 <p align="center">
@@ -19,5 +21,8 @@
 
 
 <h3 align="center"> Ranking 🔥</h3>
+<p align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ddrrff)](https://solved.ac/ddrrff/)
+
+</p>
